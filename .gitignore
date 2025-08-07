@@ -136,3 +136,6 @@ data/
 *.json
 *.pkl
 *.txt
+
+# Allow important text files
+!requirements.txt
