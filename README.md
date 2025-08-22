@@ -8,3 +8,5 @@ This is a learning project only.
 - 🔍 Replaced the OpenAI calls with AzureOpenAI
 - 🔍 Used AzureOpenAI Embedding model 
 - 🔍 Used chromadb as vector store
+- 🔍 Used LangSmith
+- 🔍 Tested a chatbot in the end 
